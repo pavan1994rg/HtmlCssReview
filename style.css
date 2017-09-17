@@ -1,0 +1,21 @@
+div {
+padding:15px;
+border: 5px solid powderblue;
+line-height:25px;
+float:left;
+margin-left:40%;
+margin-right:60%;  
+}
+
+form{
+align-content: center;
+padding: 0;
+margin: 0 auto;
+
+}
+
+
+body {
+	margin:0;
+	padding: 0;
+}
